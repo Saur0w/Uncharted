@@ -1,4 +1,4 @@
-import style from './style.module.scss';
+import styles from './style.module.scss';
 import Text from  '@/common/Text/index';
 
 export default function Team() {
