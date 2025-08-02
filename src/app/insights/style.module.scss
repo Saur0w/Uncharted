@@ -37,8 +37,5 @@ $muted: #666;
     font-weight: 500;
     transition: background-color 0.3s ease;
 
-    &:hover {
-      background-color: darken($accent, 10%);
-    }
   }
 }

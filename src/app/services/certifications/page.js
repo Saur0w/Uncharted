@@ -42,7 +42,7 @@ export default function CertificationPage() {
                             <Text>
                                 <h2>Our Expertise</h2>
                                 <p>
-                                    Our certification team comprises qualified Chartered Accountants, financial analysts, and compliance experts with extensive experience across industries and certification types. We've issued thousands of certificates for diverse purposes including loan applications, foreign remittances, government tenders, startup funding, merger transactions, and regulatory submissions. Our expertise ensures every certificate meets the highest professional standards and specific requirements of the intended recipient institution.
+                                    Our certification team comprises qualified Chartered Accountants, financial analysts, and compliance experts with extensive experience across industries and certification types. We&#39;ve issued thousands of certificates for diverse purposes including loan applications, foreign remittances, government tenders, startup funding, merger transactions, and regulatory submissions. Our expertise ensures every certificate meets the highest professional standards and specific requirements of the intended recipient institution.
                                 </p>
                             </Text>
                         </div>

@@ -20,7 +20,7 @@ export default function FEMAPage() {
                             </Text>
                             <Text>
                                 <p>
-                                    The Foreign Exchange Management Act (FEMA), 1999 governs all cross-border transactions involving foreign exchange in India. Whether you're an Indian business receiving foreign investment, an NRI investing in India, or a company dealing with overseas remittances or ECBs, FEMA compliance is critical to avoid legal issues and regulatory scrutiny. Our FEMA advisory services ensure that your international financial dealings are fully compliant with RBI and FEMA regulations.
+                                    The Foreign Exchange Management Act (FEMA), 1999 governs all cross-border transactions involving foreign exchange in India. Whether you&#39;re an Indian business receiving foreign investment, an NRI investing in India, or a company dealing with overseas remittances or ECBs, FEMA compliance is critical to avoid legal issues and regulatory scrutiny. Our FEMA advisory services ensure that your international financial dealings are fully compliant with RBI and FEMA regulations.
                                 </p>
                             </Text>
                         </div>
