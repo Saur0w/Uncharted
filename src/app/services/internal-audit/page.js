@@ -42,7 +42,7 @@ export default function InternalAuditPage() {
                             <Text>
                                 <h2>Our Expertise</h2>
                                 <p>
-                                    Our internal audit team comprises certified internal auditors, chartered accountants, IT specialists, and industry experts with extensive experience across manufacturing, services, financial institutions, and non-profit organizations. We combine technical audit expertise with deep business acumen to deliver insights that drive operational excellence. Our team's diverse background ensures comprehensive audit coverage, from financial controls to operational processes, compliance frameworks to technology systems.
+                                    Our internal audit team comprises certified internal auditors, chartered accountants, IT specialists, and industry experts with extensive experience across manufacturing, services, financial institutions, and non-profit organizations. We combine technical audit expertise with deep business acumen to deliver insights that drive operational excellence. Our team&#39;s diverse background ensures comprehensive audit coverage, from financial controls to operational processes, compliance frameworks to technology systems.
                                 </p>
                             </Text>
                         </div>

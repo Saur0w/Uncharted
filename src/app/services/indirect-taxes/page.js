@@ -42,7 +42,7 @@ export default function TaxPage() {
                             <Text>
                                 <h2>Our Expertise</h2>
                                 <p>
-                                    Our specialized team comprises seasoned tax professionals, former revenue officials, and industry experts with deep understanding of GST laws, customs regulations, and indirect tax provisions. We've successfully handled complex cases across manufacturing, trading, services, and e-commerce sectors, ensuring businesses stay ahead of regulatory changes while optimizing their tax positions. Our expertise spans from startup registrations to large corporate restructuring scenarios.
+                                    Our specialized team comprises seasoned tax professionals, former revenue officials, and industry experts with deep understanding of GST laws, customs regulations, and indirect tax provisions. We&#39;ve successfully handled complex cases across manufacturing, trading, services, and e-commerce sectors, ensuring businesses stay ahead of regulatory changes while optimizing their tax positions. Our expertise spans from startup registrations to large corporate restructuring scenarios.
                                 </p>
                             </Text>
                         </div>
@@ -60,7 +60,7 @@ export default function TaxPage() {
                             <Text>
                                 <h2>Why Choose Us</h2>
                                 <p>
-                                    Beyond routine compliance, we serve as your strategic indirect tax partners. Our technology-driven approach combines deep technical expertise with practical business understanding. We don't just file returns—we optimize your entire indirect tax ecosystem. With real-time support, dedicated relationship managers, and a track record of successful audit defenses, we ensure your business thrives in the complex indirect tax environment while maintaining complete peace of mind.
+                                    Beyond routine compliance, we serve as your strategic indirect tax partners. Our technology-driven approach combines deep technical expertise with practical business understanding. We don&#39;t just file returns—we optimize your entire indirect tax ecosystem. With real-time support, dedicated relationship managers, and a track record of successful audit defenses, we ensure your business thrives in the complex indirect tax environment while maintaining complete peace of mind.
                                 </p>
                             </Text>
                         </div>

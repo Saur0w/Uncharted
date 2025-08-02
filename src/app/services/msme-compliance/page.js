@@ -19,7 +19,7 @@ export default function MSMEPage() {
                             </Text>
                             <Text>
                                 <p>
-                                    Unlock the full potential of MSME benefits while ensuring seamless regulatory compliance. As the backbone of India's economy, Micro, Small, and Medium Enterprises deserve specialized attention to navigate complex regulatory requirements. Our comprehensive MSME Compliance Services simplify the compliance journey, maximize available benefits, and ensure your business remains eligible for government schemes, credit facilities, and policy advantages designed to fuel MSME growth.
+                                    Unlock the full potential of MSME benefits while ensuring seamless regulatory compliance. As the backbone of India&#39;s economy, Micro, Small, and Medium Enterprises deserve specialized attention to navigate complex regulatory requirements. Our comprehensive MSME Compliance Services simplify the compliance journey, maximize available benefits, and ensure your business remains eligible for government schemes, credit facilities, and policy advantages designed to fuel MSME growth.
                                 </p>
                             </Text>
                         </div>
@@ -42,7 +42,7 @@ export default function MSMEPage() {
                             <Text>
                                 <h2>Our Expertise</h2>
                                 <p>
-                                    Our MSME-focused team understands the unique challenges faced by small and medium enterprises. We've successfully handled thousands of Udyam registrations, compliance filings, and benefit applications across manufacturing, trading, and service sectors. Our expertise includes navigating complex classification criteria, optimizing investment and turnover calculations, and ensuring businesses remain within beneficial MSME thresholds while maximizing growth opportunities and regulatory advantages.
+                                    Our MSME-focused team understands the unique challenges faced by small and medium enterprises. We&#39;ve successfully handled thousands of Udyam registrations, compliance filings, and benefit applications across manufacturing, trading, and service sectors. Our expertise includes navigating complex classification criteria, optimizing investment and turnover calculations, and ensuring businesses remain within beneficial MSME thresholds while maximizing growth opportunities and regulatory advantages.
                                 </p>
                             </Text>
                         </div>
@@ -60,7 +60,7 @@ export default function MSMEPage() {
                             <Text>
                                 <h2>Why Choose Us</h2>
                                 <p>
-                                    We specialize in making MSME compliance effortless while maximizing your business advantages. Our dedicated MSME team provides personalized service, affordable solutions, and expert guidance tailored to small business needs. We don't just handle compliance—we actively help you leverage MSME status for business growth. With our support, you gain access to exclusive benefits, priority banking services, and government schemes while maintaining stress-free compliance that lets you focus on what you do best.
+                                    We specialize in making MSME compliance effortless while maximizing your business advantages. Our dedicated MSME team provides personalized service, affordable solutions, and expert guidance tailored to small business needs. We don&#39;t just handle compliance—we actively help you leverage MSME status for business growth. With our support, you gain access to exclusive benefits, priority banking services, and government schemes while maintaining stress-free compliance that lets you focus on what you do best.
                                 </p>
                             </Text>
                         </div>
